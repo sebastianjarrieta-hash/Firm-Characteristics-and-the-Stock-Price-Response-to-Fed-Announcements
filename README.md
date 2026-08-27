@@ -1,6 +1,6 @@
 Firm Characteristics and the Stock Price Response to Fed Announcements
 
-Author: Sebastian "Kite" Arrieta Perez — Texas A&M University, Economics Faculty Mentor: Professor Vlad Date: June 2026
+Author: Sebastian Arrieta Perez — Texas A&M University, Date: June 2026
 
 Overview
 
@@ -13,8 +13,6 @@ Firm characteristics constructed from CRSP/Compustat:
 Leverage — total debt / total assets
 Tobin's Q — (book assets + market equity − book equity) / book assets
 Cyclicality — rolling 20-quarter regression slope of firm YoY ROA growth on real GDP growth
-
-Note on data availability: WRDS and TAQ data are licensed and cannot be redistributed. This repo contains the analysis code and outputs, not the underlying data. Anyone with their own WRDS access can reconstruct the panel using the pipeline described below.
 
 Methodology
 
@@ -35,6 +33,7 @@ Repo Structure
 notebooks/   Python analysis notebooks (data construction, regressions, robustness checks)
 tables/      LaTeX regression tables (per-shock, combined)
 paper/       Full paper PDF (compiled from Overleaf)
+
 Tools
 
 Python (pandas, statsmodels) for data construction and regression analysis, run in Google Colab · LaTeX (Overleaf) for tables and writeup
