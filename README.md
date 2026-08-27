@@ -4,7 +4,7 @@ Author: Sebastian Arrieta Perez — Texas A&M University, Date: June 2026
 
 Overview
 
-This paper studies why firms react differently to the same Federal Reserve announcement. On October 29, 2008, the FOMC cut rates 50bp to 1% — an identical shock hitting every public firm at once — yet stock returns in the minutes around the announcement varied widely across companies. This project asks what firm characteristics explain that cross-sectional dispersion.
+This paper studies why firms react differently to the same Federal Reserve announcement. On October 29, 2008, the FOMC cut rates 50bp to 1%  an identical shock hitting every public firm at once  yet stock returns in the minutes around the announcement varied widely across companies. This project asks what firm characteristics explain that cross-sectional dispersion.
 
 Data
 High-frequency intraday returns around FOMC announcements (WRDS/TAQ)
