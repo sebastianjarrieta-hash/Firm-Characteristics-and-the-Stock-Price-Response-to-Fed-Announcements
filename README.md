@@ -1,7 +1,6 @@
 # Firm Characteristics and the Stock Price Response to Fed Announcements
 
-**Author:** Sebastian "Kite" Arrieta Perez — Texas A&M University, Economics
-**Faculty Mentor:** Professor Vlad
+**Author:** Sebastian Arrieta Perez — Texas A&M University, Economics
 **Date:** June 2026
 
 ## Overview
@@ -21,9 +20,6 @@ asks what firm characteristics explain that cross-sectional dispersion.
   - **Tobin's Q** — (book assets + market equity − book equity) / book assets
   - **Cyclicality** — rolling 20-quarter regression slope of firm YoY ROA
     growth on real GDP growth
-
-> **Note on data availability:** WRDS and TAQ data are licensed and cannot be
-> redistributed, so the underlying panel isn't included here.
 
 ## Methodology
 
@@ -69,7 +65,3 @@ If referencing this work, please cite as: Arrieta Perez, S. (2026). *Firm
 Characteristics and the Stock Price Response to Fed Announcements*. Working
 paper, Texas A&M University.
 
-## Contact
-
-Questions or interested in the full dataset construction pipeline? Reach out
-at [your email].
