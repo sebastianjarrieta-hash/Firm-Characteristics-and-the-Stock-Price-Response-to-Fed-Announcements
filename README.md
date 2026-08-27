@@ -18,12 +18,12 @@ Methodology
 
 The core empirical approach follows Ottonello & Winberry (2020), decomposing each firm characteristic into:
 
-A within-firm ("state") effect — is this firm temporarily more leveraged, higher-Q, or more cyclical than its own historical norm?
-A cross-firm ("type") effect — fixed differences between firms
+A within-firm ("state") effect is this firm temporarily more leveraged, higher-Q, or more cyclical than its own historical norm?
+A cross-firm ("type") effect fixed differences between firms
 
 Both level and within-firm-demeaned specifications are estimated to separate these two channels. All coefficient interpretations are stated in within-firm terms, per the methodology's core identifying assumption.
 
-Robustness: Results are re-estimated against two alternative monetary policy shock measures — Bauer-Swanson (2023) and Boehm-Kroner (2024) — with a 5×5 shock correlation matrix reported to show how the shock series relate to one another.
+Robustness: Results are re-estimated against two alternative monetary policy shock measures Bauer-Swanson (2023) and Boehm-Kroner (2024) with a 5×5 shock correlation matrix reported to show how the shock series relate to one another.
 
 Key Findings
 Cyclicality effect holds up under the CBI shock specification
